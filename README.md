@@ -9,7 +9,8 @@ What it does :
 
 
 
-Live Demo
+Live Demo![image](https://github.com/ayushichaudharysre/movie-recommender-system/assets/170225137/05445574-c8f1-4942-bb6c-702c0c050379)
+
 
 
 
