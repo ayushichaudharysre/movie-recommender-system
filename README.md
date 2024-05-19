@@ -5,7 +5,8 @@
 In this project I have built a content based movie recommender system. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity (generally cosine similarity) is computed from the data we have about the items as well as the user’s past preferences.
 
 
-What it does :![image](https://github.com/ayushichaudharysre/movie-recommender-system/assets/170225137/b8bd00be-b41e-4eb1-a524-cba7138049d0)
+What it does :
+![image](https://github.com/ayushichaudharysre/movie-recommender-system/assets/170225137/b8bd00be-b41e-4eb1-a524-cba7138049d0)
 
 
 
@@ -15,7 +16,8 @@ What it does :![image](https://github.com/ayushichaudharysre/movie-recommender-s
 
 
 
-How it does :![image](https://github.com/ayushichaudharysre/movie-recommender-system/assets/170225137/62679ed6-b0b6-4017-addb-bd94cda61ba7)
+How it does :
+![image](https://github.com/ayushichaudharysre/movie-recommender-system/assets/170225137/62679ed6-b0b6-4017-addb-bd94cda61ba7)
 
 Content Based Filtering - They suggest similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
 
