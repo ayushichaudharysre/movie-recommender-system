@@ -16,9 +16,9 @@ What it does :
 
 
 
-How it does :
-live demo :![image](https://github.com/ayushichaudharysre/movie-recommender-system/assets/170225137/62679ed6-b0b6-4017-addb-bd94cda61ba7)
 
+live demo :![image](https://github.com/ayushichaudharysre/movie-recommender-system/assets/170225137/62679ed6-b0b6-4017-addb-bd94cda61ba7)
+how it does:
 Content Based Filtering - They suggest similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
 
 
